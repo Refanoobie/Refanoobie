@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+![Painting](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRkZG80c2txZ2NjMTk4bTJ6dTY1MWxhenJxeXBoYWVycDV1c2ZiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Z5oTEh1uQ7ajyhpgU/giphy.gif)
 
 <!--
 **Refanoobie/Refanoobie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
